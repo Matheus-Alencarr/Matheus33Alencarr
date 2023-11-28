@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Shaw",
+  "age": 20,
+  "address": {
+    "street": "Ukeon Manor",
+    "city": "Ohiowani",
+    "state": "MD",
+    "zip": "33476"
+  },
+  "contact": {
+    "phone": "(483) 635-4832",
+    "servicePhone": "800333659"
+  },
+  "birthday": "2001-10-29T17:19:43.765Z",
+  "ip": "95.211.181.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Esdo higke danahgu lef obeav jodfortif tuflej radzobi efa du wocap uv. Zisi co su vo tis ve tigo efuawaziv ekfosuj gep gehod dooc mopbozo cafzulnoh ise refafufu ge. Ud uro nukapaj zekepse widi kiucejin wub batofe ruzo uda fo we tiv gu tul.",
+    "bio": "Vihar irigev pafdiz kowu wig lit lep bit maj vanies cuhom muvkakti bup gaen fuav derip pew. Wiusiolo venles adaat villufa enekakfe kiwer aguuga reha zaghuime lurennar jomru pob go gofnuhzu kip bivgok zukri rahrigezi. Latje miza kozcazus vanedes gabugbum ti lainu vehnace avupouk far ga ew berut mokopled tus wuefafag. Vikeav pu ladedmiz sugagjok odaibo gittiebu odimilsoz ewi loez eri wihebta emuziij iwdo ruhlawiz febipbu vanilat zuta. Verer kustu so vepafon alla puv raku necomop evo dilunse ilgi cisumjo. Opuc zemi voodoop kam jojwad udabhob wusci zedacdem dufhe vur tis ufamah veiw walic pu ojsi ekju."
+  },
+  "apiKey": "116986640c91c1260feed7f88fea86631b7eccdfc1a02eaec845424c8c12ce0b",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
