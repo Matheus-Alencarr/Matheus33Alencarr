@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Jacobs",
+  "age": 57,
+  "address": {
+    "street": "Kulun Avenue",
+    "city": "Umokenup",
+    "state": "VT",
+    "zip": "90045"
+  },
+  "contact": {
+    "phone": "(804) 277-5864",
+    "servicePhone": "800212895"
+  },
+  "birthday": "1979-10-31T02:44:12.181Z",
+  "ip": "198.244.199.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Zek zimjid hup mioh vuij iv nisek hej vov inhadul toebzej et den po jodup mu roz josimiun. Iwti ziazepo hil ned leadsu fisvod sadajetub ez fa guc jecse nabo rusocaro un hug ijciave holi sowikko. Jaj eni was dol dev befovwi zuej buwsuzvec ezauj kekarutu remeh ce. Igootu hos nobelej viab mene howtub tukepgip ubbuw ke icu elawa nirdibtu lifah asodo go pa. Funpah edipuuki carsa celohud natejul giigta etuuzovu diuhtap upsijop gudasna gugawgu negien vuahbab bijzi voh doboz fav ana. Ihzut gut tifuc tiw wuzizo ralheb ibiekzi tow mu osalamer abur vi.",
+    "bio": "Gu nepugi vanap jel fus pefe vuv boufag ozerta zew obwo iw akueje luosfen omeja wowki. Otuew ci oj sonji uw dowgar ogpem ilivoro ojihuzud kiwjuddim omwuvser hebuctoc. Kag mejurzom usco vacdeb ogsuso guktaik pete jefsewpez gegibo oge jisonkim pu. Gor wecvuzis godda cubiv pe muwmil cuzufbo henfepti miligik nutfe itubor epabided zunpodhaj cevgeg."
+  },
+  "apiKey": "56a5d32e41803edfe8f07c16e40f22a68740b6e1fc079ea02c61cefe58b495aa",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
