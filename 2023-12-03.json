@@ -1,0 +1,26 @@
+{
+  "name": "Brett Russell",
+  "age": 25,
+  "address": {
+    "street": "Behape Lane",
+    "city": "Cetiod",
+    "state": "PA",
+    "zip": "35943"
+  },
+  "contact": {
+    "phone": "(202) 206-3686",
+    "servicePhone": "800361633"
+  },
+  "birthday": "1993-03-04T18:11:44.615Z",
+  "ip": "95.126.185.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu gudo fariw kuhwasri ad pacvownis balged vev donpagis ze mewze wehhiwod jatfuh vet sekabo sincunroc odefavic ji. Dijhoc cam bas unmop uliler bisif ecjunom wot hevu ru up gevhus. Hufeir milolfit evaleuc ojdaptic be sunjac semuze ger nivtatic vefhanzoz co cavku hagvufap gewezba vuolabuw. Fiblipe mevic dahoz guvagrod wab ohu enbirzeh naocobu potan catwek uzto pow.",
+    "bio": "Abe jaffahi oz ke mufoptup covwoz mebu win hadaav fagob nog gi etata jaroma. Nufbubit ric vehgu ud eginibmab ibiga za kuvsiv femowrib tikob ni wucatot ne iwekizi bizwa. Ijejemep cig ki irilepta inuv oz epvokuc ba wilanuf fuobeno zafu cahafo wom metas pipud."
+  },
+  "apiKey": "6be6da7f5fba8ad060e613537f86b97b36abb18b19cff17d6f8ee40bb1aa1c09",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
