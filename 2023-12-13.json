@@ -1,0 +1,26 @@
+{
+  "name": "Harriet Underwood",
+  "age": 60,
+  "address": {
+    "street": "Dabnah Drive",
+    "city": "Codwemu",
+    "state": "VT",
+    "zip": "36711"
+  },
+  "contact": {
+    "phone": "(935) 280-4574",
+    "servicePhone": "800821139"
+  },
+  "birthday": "2004-09-11T15:24:44.329Z",
+  "ip": "97.71.28.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Losu hut gevuchit tefosofe upeham dipwigse mefothow aslaw ehfe imgo wilwa gij wem. Hu zab onu paeve mugmap juchi lololic duawojoj cekinwo cujbanij ena umpi ad henlof tutav. Efemam be hovdat hego ronotmi ut hamod jul ignu mehuoc me wulelban izupufba ja muzezeb egpuniw.",
+    "bio": "Izoba vu esu po pulitris sud wektaz wasiwra sem fomozmih bocac untismok fiopirop azomokuf zamto mu kibo peboki. Hofalos ihu cekruw ze sugpem henob cujutel kove sab poalwe biriep avnozat. Tuhaslec nuw sa ha hu avuezdit ibedagu armoskap rouc nuzok bujta ez kivab ukzuw zatir ma nutceb ki."
+  },
+  "apiKey": "fa5c45790fb7455c0dbd401f45d64b425a53bd0efb9287c547f62f04df11ef5c",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
