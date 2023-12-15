@@ -1,0 +1,26 @@
+{
+  "name": "Edna Morton",
+  "age": 47,
+  "address": {
+    "street": "Jonok Manor",
+    "city": "Tigafjuz",
+    "state": "ND",
+    "zip": "87476"
+  },
+  "contact": {
+    "phone": "(873) 494-2747",
+    "servicePhone": "800777211"
+  },
+  "birthday": "1991-05-31T05:09:50.047Z",
+  "ip": "144.158.67.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Picmojnic va epcuplog jenav merifdoj bakgana odsa elazinru utozucaf uzduwed siptofaz men man citlosuk ruv nusubdo. Jat zokoava ikatorecu ogi si nugobo dinlorhop izu odeja pumol mij cezobhad. Fomjo tabi caz li fafif ganjeag ga lab oz kak pig iwmuh olera joinzib. Hesseh pisuzuho tipsom ajraja pu zod di fehteb bofo kawablon mun ko pur to wodigeta vo.",
+    "bio": "Jes ge de wes gawhene hel jobcowa sosiduoli karoso epi fetemaf hojehbo le. Simlakuh je habo toca ziapi sod sesi pedwiig ke umekukto wapcop ivihime tatfovgo jalaw bub jiboci inidmus tifdila. En zozamawi gagkuut ag parfahuj wub imalir gitupfuf lisuce gomdope zad fag tielevo rug."
+  },
+  "apiKey": "091a707b45a60d5406b1c1690081f2fb4efb8d35e0ddc308d272e5eab17773aa",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
