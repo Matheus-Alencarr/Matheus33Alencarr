@@ -1,0 +1,26 @@
+{
+  "name": "Keith Blake",
+  "age": 23,
+  "address": {
+    "street": "Novez Heights",
+    "city": "Zekkohrur",
+    "state": "MD",
+    "zip": "62500"
+  },
+  "contact": {
+    "phone": "(849) 480-1832",
+    "servicePhone": "800928468"
+  },
+  "birthday": "1978-10-28T16:15:59.226Z",
+  "ip": "45.63.138.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Cup huwitov jemaw afieh nu toodi de jumwokciz derlu kijow rume ucliaf potece dibdorije om ni nokiwhon. Nedefaj savcarwe jag ho kobob intokesa ti don fotah dirtu amomumi zinro namuvag gad. Ropi ka hefvi veazu gu cisjalga tom udo los newufoaha zacbalo ijo gejju su ko womatmu moudoji. Uljuf zawiez jed viken nippazvub geenjih jiho vasfob wedja to huje he ohwir fa uteadota ob la dioni.",
+    "bio": "Goro ro de tofa ojoum si doj tubutal foke vo hocjesapi zidkohlo rikrilpis. Idzu beiwa vibpiwe gow fes laspuk le sod wuhemo ci ikba alo litkuj vaonci hiepovaw hekotiti tu fub. Mif boosmum kimuw go miz nejage biffoepo paktuji hiksolha cozzog wi heg juhzus wana votuzge mirbima."
+  },
+  "apiKey": "23cbee7a14cf1bd6b33795b3c7931fa6f807ecf331febadb0ede263edcc83ec1",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
