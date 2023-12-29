@@ -1,0 +1,26 @@
+{
+  "name": "Jane Bradley",
+  "age": 34,
+  "address": {
+    "street": "Esiig Extension",
+    "city": "Digebu",
+    "state": "CO",
+    "zip": "03016"
+  },
+  "contact": {
+    "phone": "(657) 322-4454",
+    "servicePhone": "800925836"
+  },
+  "birthday": "1979-06-14T08:48:05.989Z",
+  "ip": "132.80.6.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Cubo hak vauztok cumuplu fu tavliwju foaji pejziihi hidu sa lil ivca pevtognoz fono. Ka ret wuha gocaed gueg elira johfote zabu viztati bajvu pe ha lunan. Su hojov hok taecici biru aheli paj goneho ril gufah mip recevoubi. Riheb jow hobwew lap hirlifo zetab utaneje wuikjum afehe owat toudti mal ka aw odi fawdioz.",
+    "bio": "Dak kurdeb puhawven donmumsir jesneki paki fi ciigieru wab laf jablo zupuvko hegi azi cunul. Ucikod az sursopub so hiherrik bovzerra cefej hosuwas ida amu zebuh abadov or da lad mit. Bawsovpon hoefran mifirse gegkemu nak hahaire ruw faanate ficus kirap tu kaglar. Onat bi hirkeb wegomse buc bobil ripkecji tukuh amonowam di uvi paniz luginhi suwofo basar megven lusbabij kovol. Voho cewodafen pesez kegena cen supor rocgi amezaw irwoido un tedvisgeb oni. Jujioj jizmi uvigol igete nekehto ced hinuj pocokiop rufikfo savo zuforub dihazu ile buh kifdo veb ih itjilus. Safkip ad basvel otagotu bikif ulu cif ru telkurob udo wojdu jejojen vezil jevaci no."
+  },
+  "apiKey": "3ce64c84ac69b1700de58d77e94a0a8372eafc301bb640536691b36390183b2b",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
