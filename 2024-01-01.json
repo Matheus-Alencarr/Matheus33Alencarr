@@ -1,0 +1,26 @@
+{
+  "name": "Isabel Keller",
+  "age": 33,
+  "address": {
+    "street": "Dunsom Court",
+    "city": "Pizalje",
+    "state": "MI",
+    "zip": "64928"
+  },
+  "contact": {
+    "phone": "(843) 213-9382",
+    "servicePhone": "800826634"
+  },
+  "birthday": "1981-01-16T08:07:55.096Z",
+  "ip": "240.194.139.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Du sikge pena uru mos jefkot udko muzopap esupoizi vew dajtozra ducwac. La dier weza ul cejjiiba lumbaboma ur ipusik vapajgi gusuk na dogkiwzum badaw rob. Aledezem os rijamuure wamicit ezohogi wamgi opzavis oru mufmil viz pesma nubtobpok fujobol biwbu kefla ibfizan tot. Korlu ikepajog ba ijwe ceochi ume odivin wozdimtib bif muugehaf pus hu kuot iradas nub. Ew pone ri jiwla do lud leepe mi nognokgi rocvaszo humib unno wipajdam piftirkuz kaggih visi tirbow.",
+    "bio": "Ozlobap atjijeg laczum aza fa mene gotki zimvo da nu hezwe ru hure. Kozajcir jejiwdug pizizi wohzamgi murcucwo niv vetca voc dirnecah sasekam coom kalifli heg taz dip new epeca vuhmek. Ot we wiz finev epki pidikjar coze etkep wes el zedfew avuasijo sokajaw zakfirnum uhameb surzeb. Lawmoj muksijhuc ikgeic dahauta odu nuofoma cafso giseltop isowif omwolic tadipe hobpozru in li. Awpet zu ozfelen sapuvnir siuraju wojfefza tawag wasesewu elju upoowlaw nub keblod nipdasu."
+  },
+  "apiKey": "1dd8f1b639f98f739a6665f3f5d2f972222aceeb81dbdec0e96eb452c62a4504",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
