@@ -1,0 +1,26 @@
+{
+  "name": "Willie Casey",
+  "age": 60,
+  "address": {
+    "street": "Pubor Square",
+    "city": "Arijisca",
+    "state": "ND",
+    "zip": "32406"
+  },
+  "contact": {
+    "phone": "(685) 294-5525",
+    "servicePhone": "800158239"
+  },
+  "birthday": "1979-02-11T23:43:47.859Z",
+  "ip": "133.34.56.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze cah muvpaod wuva odenoh feh fesoagi gudpe corkod uf vaowna ertal. Uruwbus wavutfag wed pamhu mimme joredoh saj tutnewad bunip tujok pahwuoce sab mibbi uvokedjuj soplapem le. Fup mudvijon wipfumopi rav setijeg vol tedipap nur lizirawi devisula ogigefoj icidi. Ca zef pujjale da zejew adufajwa esa ri bahdujnac dopleta in lih bududug fezreoh zuzfatda gaazoir cekjaf. Epi litu zozepeb ovelale ep al hogoic genvu zogo nekpu cizku bechuusi fi mukukze hagdubep bid. Uzkape vemto ut etufad wabola hac opoenwi baefazaf ipudumoc ralapki awo wokzadi zeje.",
+    "bio": "Gosbefji fibven demeg zeewka caupa aru ge lorok evuksod fehkek honkeg rujkisron ten ihsem ig napfe apiwu. Fefove goho wohpubla wed ig efu gojezpoh vuw redeba sugabuv fag zocgelsa pufipepi. Ivuzigu lajkowwa um ruib vub iconusdij fetnihoze fohidlu vad pe re ho taromfa kigmi etrilaw up zir."
+  },
+  "apiKey": "db4e70b68b0c040c94056ccf09d570a528d338d9291e1c2af545302b1b8a28d3",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
