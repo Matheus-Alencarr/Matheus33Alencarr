@@ -1,0 +1,26 @@
+{
+  "name": "Susan Stone",
+  "age": 56,
+  "address": {
+    "street": "Vobuh Plaza",
+    "city": "Panzihwuh",
+    "state": "IL",
+    "zip": "84377"
+  },
+  "contact": {
+    "phone": "(945) 574-9241",
+    "servicePhone": "800723581"
+  },
+  "birthday": "1981-01-01T05:30:09.803Z",
+  "ip": "13.136.65.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Tirnos du huowwip sasro umuw buvujil danjezat uwteh mufig hukien buc pul kim girbamto mu uzah jijofek. Gaew ata lus vemikho kikihi tif omisip iv nijisejo efegupso ebvitib peh tan zu. Atac ek hetojme piowa dutum poimgiw vekizok suh doho regti wiscunmew figkijjaj lozsoz naudude ganokuze. Ba wa se fab defjo osni pu hubes werokfun ecbe pugje bazvu mav mabicoas.",
+    "bio": "Lohwaoj rueposoj woj ifi actejeh cab biz ve pegji zusud zaezu lo runimefev. Vozbiso av te arumad tejlu ijhefaza tuj ugnifzi kiluddab zi ziluz or vecege widin fahtamvu. Tudnaizo ekisebrod weiwidat vatma va natogosej eliup al ikojuhsig jime lezsuku kovef."
+  },
+  "apiKey": "d3b7ff6255cdbb33c9d7a0d07e7979a8f1a7ea1dcb03e2077c96e2b13d7cdb8e",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
