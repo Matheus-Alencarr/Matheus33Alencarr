@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Cross",
+  "age": 63,
+  "address": {
+    "street": "Ogep Place",
+    "city": "Liarihe",
+    "state": "NV",
+    "zip": "30470"
+  },
+  "contact": {
+    "phone": "(607) 935-8212",
+    "servicePhone": "800952166"
+  },
+  "birthday": "1990-09-23T14:24:04.418Z",
+  "ip": "226.188.57.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Wujig liedugu atpiafi gahzoje votnoz hebko tatik vi vatvuh ze ufavugi vo imvi av obo ka wuwleves. Av orom vahabji gof goafiene odwawut najet cahgeta sumwigur sowaz liwed widilo suuhro si guirafuv nukuj feco. Kojeoj abo up po evipeb fuzsipdeg es zugureoj deekasa pocu mazdeh urkisuw ugodote.",
+    "bio": "Ofzuare gomlokof se bogpegvul co fidteval ihep zebcib osede tehag nucvun numuv gimpin cajo mardumta nanjinpi anipemli vuhesahi. Goto holru dotew iku bon tiza zam raoba ineburali ukaleas atu deccizac ucawoeza. Tibnol dikmi fef weg miw zu rovzok nupugef tuve ji mo we pafzahar hu aw vipojfe."
+  },
+  "apiKey": "6ddb732f752de0aebd5b40fedd0288bf5410c68ba20092082d0fd562b61a5a3e",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
