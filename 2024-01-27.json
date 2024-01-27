@@ -1,0 +1,26 @@
+{
+  "name": "Lawrence Thornton",
+  "age": 33,
+  "address": {
+    "street": "Gubir Grove",
+    "city": "Sonudpo",
+    "state": "NC",
+    "zip": "92245"
+  },
+  "contact": {
+    "phone": "(418) 818-6746",
+    "servicePhone": "800669132"
+  },
+  "birthday": "1964-11-13T10:16:23.154Z",
+  "ip": "102.79.179.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehiridif ut fokicem ug duh ow ran niimuriz gubakaum fi la reblubve afi. Izfuf topoor wi jabid ulusez jiweduji dongu ozginbuc coh dofop fas orlotik bujuc veriw vezvo milbu roduk. Ruted ro paecirir hutwon vavroh gig mijsokiv viddaf temcaj di jedkajes ojo inika on ohuj.",
+    "bio": "Siulo ed ami iwva jisaefe mufo fep gus nev robe jicari fohkumpej medkonjoj hedevamat. Zeojaote fespi felaf wuosolam hen vuziga ob tev wencer figpe regle iv jef kuuriki uwi du. Wojuko befloga hivzi wusic tajku gor usiho fieka edevcab hircit dacu wegjorsoc fewu badfubnof."
+  },
+  "apiKey": "c4bb0613681ca54deefc1fd0bd31058cdbf69ec8c8498a649b30da3f17833590",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
