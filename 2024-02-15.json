@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Lynch",
+  "age": 23,
+  "address": {
+    "street": "Olrid Path",
+    "city": "Litmijkof",
+    "state": "OR",
+    "zip": "53080"
+  },
+  "contact": {
+    "phone": "(908) 674-8940",
+    "servicePhone": "800738444"
+  },
+  "birthday": "1990-01-29T12:53:45.248Z",
+  "ip": "170.210.207.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Liv hutadulat mokwabla pibehmib remaron ruhip je vuwajut jeetouf ec fiha dev uz batama caznew zihtucog tuihi rekego. Vesoljiz lu afu bulro solbacko tewugim dec ok ogusaw ivefe bukadu venu doizecih ulapefun sagok ciuvjuc enkopo. Ri cahecob jawan jafne retic aksigrah zenefulo ovfetid doubupe gejiguet ucgipud zu amutum ubuwu kulu dikfuw evva. Jesaka gil gutigi jidihcib himuvos ukehuud jatfud va mizwos winel ovoceh difi wa. Losa zuv seb tamba eh zeez ir aletobbu tacorto kef dug malnafu.",
+    "bio": "Wi lo embiri ludduj ez nip pohoc sugujham gep bumnilij eto gat he. Na kiirze volpew na iso biwun lipruranu ga rorpaf buk dapok las pesi sozoj afsoebo fazo vipul daodato. Jamesece vufodbin keik kilolhob dar ima fuv fuwnovnig hijcisdu vorom honcev evtu udwec epikwij leopmov. Bufupub mafridun ikaluddi fewebrac jerez hin tobakiw gizjofhe ekunu ofreiw ikuallac ba wu ato."
+  },
+  "apiKey": "b94963f582b3f3358ddb5ba478940c98c5cd51f9198ec265d4f0e1e2cba62b97",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
