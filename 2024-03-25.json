@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Gonzales",
+  "age": 54,
+  "address": {
+    "street": "Kipod Mill",
+    "city": "Momozvar",
+    "state": "DE",
+    "zip": "27539"
+  },
+  "contact": {
+    "phone": "(212) 682-1991",
+    "servicePhone": "800675587"
+  },
+  "birthday": "1995-12-29T03:30:27.558Z",
+  "ip": "24.249.73.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Te uze kec akami puun zebuw anafu jarpaz cafzu ibeco owe polzujri pofu. Advu it vizuljiz fozeho ud jit dak tejdigam zifpate avabijzi buote cepeg. Wicabhad dehipga pe botafba sadhoharu doep zi puzanatu piki uvo ce uguama uca banrahugu zap miz. Cuw gaj fiwpo da inkar nitbor zis jacda ito ekoetet kipuv ha usobun fakec. Onivon pejfi ju velgod wusurew jewgagek lugnave fi fu mah zavwa lok ga ham nud dazkipol dujbem. Gikev ufuil josjoj icaletit wala meeka oni kafig okijedi nucve bagicasu gesi sugfudoj puke fihwi jaifuge.",
+    "bio": "Sanfivvek laj vibeugo jifo wuhu nirjucov iw janu rogernop jiudejo carudohi iw ejsumom iju tu ricugbim abgu segla. Zez hec re vosuv fagepfi re zidgal kokpoiz rolel ku ed dov nutef caspow bunmebgov mevfibjo. Odge dezin wiwe pohoben if iwwer vig bose gu wircel om ni. Hoblojmu oce majmih so imuhi tewzivfej hael hodvo pe joz polarwoc sitsoh. Beg hizuato vuwor zeanu nufzu odlef gikval lifamu dudamhad uz fikil mawamoh kajetwo po fecowhun ecuob sesret bo. Gatu sefcapveg ap isuud apejajfuv miej nimnif convi sadoga parvudir mi lo couho. Vog ruimi hojwe beifo boedguc louvugu imoemcu cit milap arca jowzerib mub."
+  },
+  "apiKey": "8c999442580a3b465e2e4005e75620cb09771fa516dd7c24061cb94e243ba287",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
